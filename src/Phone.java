@@ -5,6 +5,6 @@ public class Phone implements Chargeable{
     }
 
     public void Call() {
-        System.out.println("Callin");
+        System.out.println("Calling");
     }
 }
